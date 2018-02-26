@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ItunesApplication</string>
+    <string name="title_Pulse">Pulse</string>
+    <string name="title_Rock">Rock</string>
+    <string name="title_Classic">Classic</string>
+    <string name="title_Pop"> Pop </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
